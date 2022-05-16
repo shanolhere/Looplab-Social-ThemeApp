@@ -2,10 +2,10 @@
 
 This is a project-1: LoopLAB Social Theme App made using HTML, CSS, Bootstrap.
 
-Concepts I have learnt so far from this project:
+## Concepts I have learnt so far from this project:
 
-Making Navbar and responsive at sm scaled devices
-Added Grid Layout
-Added Responsive images
-Added Modal
-Added smooth scrollspy layout
+1. Making Navbar and responsive at sm scaled devices
+2. Added Grid Layout
+3. Added Responsive images
+4. Added Modal
+5. Added smooth scrollspy layout
